@@ -111,3 +111,34 @@ nav a{
   text-align: center;
   justify-content: space-around;
 }
+
+.what-i-do{
+  padding: 130px;
+  background-color: #FFF8F3;
+  width: 75%;
+  margin: 100px auto;
+  border-radius: 5px;
+  border:1px solid #FD6E0A;
+}
+.resume{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+.resume-box{
+  width: 25%;
+  margin-right: 10px;
+  background-color: white;
+  padding: 20px 15px;
+  border-radius: 5px;
+  height: 250px;
+  overflow-y: scroll;
+  
+}
+.resume-title{
+  margin: 10px 0;
+}
+.resume-description{
+  line-height: 30px;
+}
