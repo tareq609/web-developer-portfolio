@@ -142,3 +142,21 @@ nav a{
 .resume-description{
   line-height: 30px;
 }
+.summary{
+  width: 75%;
+  margin: 100px auto;
+}
+.education{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+  gap: 20px;
+  line-height: 30px;
+}
+.title{
+  margin: 10px 0;
+}
+.title-des{
+  margin-bottom: 10px;
+}
