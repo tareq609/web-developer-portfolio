@@ -160,3 +160,34 @@ nav a{
 .title-des{
   margin-bottom: 10px;
 }
+.footer{
+  background-color: #FFF8F3;
+}
+.foot-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 75%;
+  margin: 0 auto;
+  padding: 100px;
+}
+.Connect-box{
+  width: 35%;
+}
+.Connect-title{
+  margin: 15px 0;
+}
+input[type="text"],input[type="email"],textarea,input[type="submit"]{
+  display: block;
+  padding: 10px;
+  margin-top: 10px;
+  width: 100%;
+  border-radius: 5px;
+  border: none;
+}
+.input-box{
+  width: 50%;
+}
+input[type="submit"]{
+  width: 15%;
+}
